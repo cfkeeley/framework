@@ -1,2 +1,4 @@
-# framework
-MVC framework in PHP
+MVC Framework
+=============
+
+PHP based experimental MVC framework incorporating modular functionality 
